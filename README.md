@@ -1,4 +1,5 @@
 ### Hi there, I'm Eric👋
+### I am a Data analyst working primarily in Python
 
 Here are some ideas to get you started:
 
